@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=KimmoKAhola&color=blueviolet)
 - 👋 Hi, I’m @KimmoKAhola
 - 🌱 I’m currently learning .NET at KYH
 
